@@ -12,10 +12,13 @@ This is a simple healthcare chatbot built using Node.js for the backend and HTML
 ## Project Structure
 
 Healthcare-Chatbot/
-###├── backend/ # Server logic and API configuration
-###├── frontend/ # Chat interface for users
-###├── .gitignore # Files to exclude from GitHub
-###├── README.md # This file
+├── backend/ # Server logic and API configuration
+
+├── frontend/ # Chat interface for users
+
+├── .gitignore # Files to exclude from GitHub
+
+├── README.md # This file
 
 
 ## Setup Instructions
